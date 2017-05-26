@@ -1,0 +1,6 @@
+1.select country from country where country like 'B%';
+
+2. select first_name from actor where last_name='BERRY' order by first_name desc;
+
+
+3.select title,length from film where length >=184 order by length, title asc;
